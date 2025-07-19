@@ -71,5 +71,5 @@ public class BookingController {
 		return bookingService.saveALL(al);
 		
 	}
-	//Hello bro How are you
+	
 }
